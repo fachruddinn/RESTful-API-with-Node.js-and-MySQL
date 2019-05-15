@@ -27,7 +27,7 @@ Menggunakan POSTMAN untuk menguji API yang telah dibuat.
 
 Screenshot
 
-![](screenshot/Postman_051608PM08052019.png)
+![](screenshot/Update/Postman_012943PM15052019.png)
 
 
 
